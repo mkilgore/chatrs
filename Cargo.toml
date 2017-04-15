@@ -1,0 +1,11 @@
+[package]
+name = "chatrs"
+version = "0.1.0"
+authors = ["Matthew Kilgore <mattkilgore12@gmail.com>"]
+
+[dependencies]
+byteorder = "1.0.0"
+colored = "1.4"
+libc = "0.2.21"
+termios = "0.2.2"
+
